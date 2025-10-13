@@ -1,0 +1,10 @@
+church-website/
+├── index.html
+├── about.html
+├── services.html
+├── contact.html
+├── calendar.html
+├── style.css
+└── assets/
+    └── images/
+        └── church-hero.jpg  ← (placeholder image)
