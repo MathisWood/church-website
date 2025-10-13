@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>New Hope Church</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>New Hope Church</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="services.html">Services</a>
+      <a href="calendar.html">Calendar</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Welcome to New Hope Church</h2>
+    <p>Experience faith, community, and purpose.</p>
+  </section>
+
+  <section>
+    <h3>Join Us This Sunday</h3>
+    <p>Our Sunday service starts at 10:00 AM. All are welcome!</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 New Hope Church • Your Town, USA</p>
+  </footer>
+
+</body>
+</html>
