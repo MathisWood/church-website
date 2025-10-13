@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Services | New Hope Church</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>New Hope Church</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="services.html">Services</a>
+      <a href="calendar.html">Calendar</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <section>
+    <h2>Our Services</h2>
+    <ul>
+      <li><strong>Sunday Worship:</strong> 10:00 AM</li>
+      <li><strong>Bible Study:</strong> Wednesdays at 7:00 PM</li>
+      <li><strong>Youth Group:</strong> Fridays at 6:00 PM</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 New Hope Church</p>
+  </footer>
+
+</body>
+</html>
