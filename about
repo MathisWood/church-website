@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About | New Hope Church</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>New Hope Church</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="services.html">Services</a>
+      <a href="calendar.html">Calendar</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <section>
+    <h2>About Us</h2>
+    <p>New Hope Church is a place for spiritual growth, community outreach, and authentic relationships.</p>
+    <p>Our mission is to share the love of Christ with everyone through worship, service, and teaching.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 New Hope Church</p>
+  </footer>
+
+</body>
+</html>
